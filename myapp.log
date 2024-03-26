@@ -1,0 +1,40 @@
+2024-03-26T13:39:51.087-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.ShopallApplication   : Starting ShopallApplication using Java 17.0.1 with PID 7752 (C:\Users\78969972587\Documents\ResidenciaJava\java-avancado\aula-8\shopall\target\classes started by 78969972587 in C:\Users\78969972587\Documents\ResidenciaJava)
+2024-03-26T13:39:51.089-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.ShopallApplication   : The following 1 profile is active: "test"
+2024-03-26T13:39:54.630-03:00 DEBUG 7752 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 15 mappings in 'requestMappingHandlerMapping'
+2024-03-26T13:39:54.698-03:00 DEBUG 7752 --- [restartedMain] o.s.w.s.handler.SimpleUrlHandlerMapping  : Patterns [/webjars/**, /**, /swagger-ui*/*swagger-initializer.js, /swagger-ui*/**] in 'resourceHandlerMapping'
+2024-03-26T13:39:54.731-03:00 DEBUG 7752 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerAdapter : ControllerAdvice beans: 0 @ModelAttribute, 0 @InitBinder, 1 RequestBodyAdvice, 1 ResponseBodyAdvice
+2024-03-26T13:39:54.762-03:00 DEBUG 7752 --- [restartedMain] .m.m.a.ExceptionHandlerExceptionResolver : ControllerAdvice beans: 2 @ExceptionHandler, 1 ResponseBodyAdvice
+2024-03-26T13:39:54.926-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.ShopallApplication   : Started ShopallApplication in 4.169 seconds (process running for 4.513)
+2024-03-26T13:39:55.127-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Category: Entidade com.swproject.shopall.entities.Category id: 1
+2024-03-26T13:39:55.179-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Product: Entidade com.swproject.shopall.entities.Product id: 1
+2024-03-26T13:39:55.280-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Usuario ADMIN criado: Entidade com.swproject.shopall.entities.Usuario id: 1
+2024-03-26T13:39:55.293-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Employee: Entidade com.swproject.shopall.entities.Employee id: 1
+2024-03-26T13:39:55.295-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Category: Entidade com.swproject.shopall.entities.Category id: 2
+2024-03-26T13:39:55.304-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Product: Entidade com.swproject.shopall.entities.Product id: 2
+2024-03-26T13:39:55.310-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Usuario FUNCIONARIO criado: Entidade com.swproject.shopall.entities.Usuario id: 2
+2024-03-26T13:39:55.313-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Employee: Entidade com.swproject.shopall.entities.Employee id: 2
+2024-03-26T13:39:55.315-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Category: Entidade com.swproject.shopall.entities.Category id: 3
+2024-03-26T13:39:55.323-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Product: Entidade com.swproject.shopall.entities.Product id: 3
+2024-03-26T13:39:55.326-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Usuario FUNCIONARIO criado: Entidade com.swproject.shopall.entities.Usuario id: 3
+2024-03-26T13:39:55.329-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Employee: Entidade com.swproject.shopall.entities.Employee id: 3
+2024-03-26T13:39:55.331-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Category: Entidade com.swproject.shopall.entities.Category id: 4
+2024-03-26T13:39:55.337-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Product: Entidade com.swproject.shopall.entities.Product id: 4
+2024-03-26T13:39:55.341-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Usuario FUNCIONARIO criado: Entidade com.swproject.shopall.entities.Usuario id: 4
+2024-03-26T13:39:55.345-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Employee: Entidade com.swproject.shopall.entities.Employee id: 4
+2024-03-26T13:39:55.347-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Category: Entidade com.swproject.shopall.entities.Category id: 5
+2024-03-26T13:39:55.355-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Product: Entidade com.swproject.shopall.entities.Product id: 5
+2024-03-26T13:39:55.359-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Usuario FUNCIONARIO criado: Entidade com.swproject.shopall.entities.Usuario id: 5
+2024-03-26T13:39:55.362-03:00  INFO 7752 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Employee: Entidade com.swproject.shopall.entities.Employee id: 5
+2024-03-26T13:47:04.015-03:00  INFO 7752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2024-03-26T13:47:04.015-03:00 DEBUG 7752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected StandardServletMultipartResolver
+2024-03-26T13:47:04.016-03:00 DEBUG 7752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected FixedLocaleResolver
+2024-03-26T13:47:04.016-03:00 DEBUG 7752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected FixedThemeResolver
+2024-03-26T13:47:04.018-03:00 DEBUG 7752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.view.DefaultRequestToViewNameTranslator@2f0a6b07
+2024-03-26T13:47:04.019-03:00 DEBUG 7752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Detected org.springframework.web.servlet.support.SessionFlashMapManager@34358b49
+2024-03-26T13:47:04.019-03:00 DEBUG 7752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : enableLoggingRequestDetails='false': request parameters and headers will be masked to prevent unsafe logging of potentially sensitive data
+2024-03-26T13:47:04.020-03:00  INFO 7752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 4 ms
+2024-03-26T13:47:04.025-03:00 DEBUG 7752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : GET "/api/v1/usuarios/1", parameters={}
+2024-03-26T13:47:04.034-03:00 DEBUG 7752 --- [http-nio-8080-exec-1] s.w.s.m.m.a.RequestMappingHandlerMapping : Mapped to com.swproject.shopall.web.controllers.UsuarioController#getById(Long)
+2024-03-26T13:47:04.314-03:00 DEBUG 7752 --- [http-nio-8080-exec-1] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Using 'application/json', given [*/*] and supported [application/json, application/*+json]
+2024-03-26T13:47:04.315-03:00 DEBUG 7752 --- [http-nio-8080-exec-1] o.s.w.s.m.m.a.HttpEntityMethodProcessor  : Writing [UsuarioResponseDto(id=1, username=hugo.farias@hotmail.com, perfilTipo=ADMIN)]
+2024-03-26T13:47:04.326-03:00 DEBUG 7752 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
