@@ -15,13 +15,10 @@ import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.swproject.shopall.entities.Category;
-import com.swproject.shopall.entities.Usuario;
 import com.swproject.shopall.services.CategoryService;
 import com.swproject.shopall.web.dto.CategoryResponseDto;
-import com.swproject.shopall.web.dto.UsuarioResponseDto;
 import com.swproject.shopall.web.dto.form.CategoryForm;
 import com.swproject.shopall.web.dto.mapper.CategoryMapper;
-import com.swproject.shopall.web.dto.mapper.UsuarioMapper;
 import com.swproject.shopall.web.exceptions.ErrorMessage;
 
 import io.swagger.v3.oas.annotations.Operation;

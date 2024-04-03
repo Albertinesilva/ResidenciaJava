@@ -19,10 +19,8 @@ import com.swproject.shopall.entities.Usuario;
 import com.swproject.shopall.services.EmployeeService;
 import com.swproject.shopall.services.UsuarioService;
 import com.swproject.shopall.web.dto.EmployeeResponseDto;
-import com.swproject.shopall.web.dto.UsuarioResponseDto;
 import com.swproject.shopall.web.dto.form.EmployeeForm;
 import com.swproject.shopall.web.dto.mapper.EmployeeMapper;
-import com.swproject.shopall.web.dto.mapper.UsuarioMapper;
 import com.swproject.shopall.web.exceptions.ErrorMessage;
 
 import io.swagger.v3.oas.annotations.Operation;
