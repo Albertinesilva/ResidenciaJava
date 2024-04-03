@@ -1099,6 +1099,7 @@ Caused by: org.hibernate.query.SemanticException: Cannot compare left expression
 2024-03-23T01:40:18.271-03:00  INFO 14640 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Product: Entidade com.swproject.shopall.entities.Product id: 5
 2024-03-23T01:40:18.291-03:00  INFO 14640 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Usuario FUNCIONARIO criado: Entidade com.swproject.shopall.entities.Usuario id: 5
 2024-03-23T01:40:18.301-03:00  INFO 14640 --- [restartedMain] c.swproject.shopall.config.TestConfig    : Employee: Entidade com.swproject.shopall.entities.Employee id: 5
+<<<<<<< HEAD
 2024-03-26T13:51:15.603-03:00  INFO 16264 --- [restartedMain] c.swproject.shopall.ShopallApplication   : Starting ShopallApplication using Java 17.0.1 with PID 16264 (C:\Users\78969972587\Documents\ResidenciaJava\java-avancado\aula-8\shopall\target\classes started by 78969972587 in C:\Users\78969972587\Documents\ResidenciaJava\java-avancado\aula-8\shopall)
 2024-03-26T13:51:15.603-03:00  INFO 16264 --- [restartedMain] c.swproject.shopall.ShopallApplication   : The following 1 profile is active: "test"
 2024-03-26T13:51:18.656-03:00 DEBUG 16264 --- [restartedMain] s.w.s.m.m.a.RequestMappingHandlerMapping : 15 mappings in 'requestMappingHandlerMapping'
@@ -1389,3 +1390,5 @@ java.lang.IllegalArgumentException: PerfilTipo inválido: null
 2024-03-26T14:39:49.764-03:00  WARN 10772 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Ignoring exception, response committed already: org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Infinite recursion (StackOverflowError)
 2024-03-26T14:39:49.765-03:00  WARN 10772 --- [http-nio-8080-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.http.converter.HttpMessageNotWritableException: Could not write JSON: Infinite recursion (StackOverflowError)]
 2024-03-26T14:39:49.765-03:00 DEBUG 10772 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed 200 OK
+=======
+>>>>>>> 54c67db72450b73cad9043921077d5a0df33dbf8
